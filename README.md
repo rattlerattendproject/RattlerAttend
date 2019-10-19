@@ -10,4 +10,4 @@ When prompted to add react-navigation to package.json and react-navigation-stack
 for both.
 Then on the right side of the screen above the simulator click the "iOS" tab.
 Press the "Tap to play" button on the iPhone screen and wait for the simulation to load.
-Finally, the red error at the bottom of the screen should dissappear.
+Finally, the red error at the bottom of the screen should dissappear. 
